@@ -1,0 +1,8 @@
+C:\Users\Matheus\Documents\Projetos\C#\Expense\Expense\obj\Debug\net8.0\Expense.csproj.AssemblyReference.cache
+C:\Users\Matheus\Documents\Projetos\C#\Expense\Expense\obj\Debug\net8.0\Expense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\Projetos\C#\Expense\Expense\obj\Debug\net8.0\Expense.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\Projetos\C#\Expense\Expense\obj\Debug\net8.0\Expense.AssemblyInfo.cs
+C:\Users\Matheus\Documents\Projetos\C#\Expense\Expense\obj\Debug\net8.0\Expense.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\Projetos\C#\Expense\Expense\obj\Debug\net8.0\Expense.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Matheus\Documents\Projetos\C#\Expense\Expense\obj\Debug\net8.0\Expense.RazorAssemblyInfo.cache
+C:\Users\Matheus\Documents\Projetos\C#\Expense\Expense\obj\Debug\net8.0\Expense.RazorAssemblyInfo.cs
