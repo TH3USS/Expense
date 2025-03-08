@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using NomeDoProjeto.Models;
+using Expense.Models;
 
-namespace NomeDoProjeto.Controllers;
+namespace Expense.Controllers;
 
 public class HomeController : Controller
 {
@@ -48,7 +48,7 @@ public class HomeController : Controller
         return RedirectToAction("Expenses");
     }
 
-    public IActionResult CreateEditExpenseForm(Expense model){
+    public IActionResult CreateEditExpenseForm(Expensenses model){
 
         if(model.Id == 0){
             //create

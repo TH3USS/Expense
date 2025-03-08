@@ -1,4 +1,4 @@
-namespace NomeDoProjeto.Models;
+namespace Expense.Models;
 
 public class ErrorViewModel
 {

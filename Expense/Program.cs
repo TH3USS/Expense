@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
-using NomeDoProjeto.Models;
+using Expense.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 

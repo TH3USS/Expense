@@ -1,18 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Expense\\",
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\Documents\\Projetos\\Expense\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47351F35-5403-48B7-9C82-848B284FA291}|Expense\\Expense.csproj|c:\\users\\matheus\\documents\\projetos\\c#\\expense\\expense\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{47351F35-5403-48B7-9C82-848B284FA291}|Expense\\Expense.csproj|c:\\users\\matheus\\documents\\projetos\\expense\\expense\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{47351F35-5403-48B7-9C82-848B284FA291}|Expense\\Expense.csproj|solutionrelative:expense\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47351F35-5403-48B7-9C82-848B284FA291}|Expense\\Expense.csproj|c:\\users\\matheus\\documents\\projetos\\c#\\expense\\expense\\models\\spendsmartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47351F35-5403-48B7-9C82-848B284FA291}|Expense\\Expense.csproj|c:\\users\\matheus\\documents\\projetos\\expense\\expense\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47351F35-5403-48B7-9C82-848B284FA291}|Expense\\Expense.csproj|solutionrelative:expense\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47351F35-5403-48B7-9C82-848B284FA291}|Expense\\Expense.csproj|c:\\users\\matheus\\documents\\projetos\\expense\\expense\\models\\expensenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47351F35-5403-48B7-9C82-848B284FA291}|Expense\\Expense.csproj|solutionrelative:expense\\models\\expensenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47351F35-5403-48B7-9C82-848B284FA291}|Expense\\Expense.csproj|c:\\users\\matheus\\documents\\projetos\\expense\\expense\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47351F35-5403-48B7-9C82-848B284FA291}|Expense\\Expense.csproj|solutionrelative:expense\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47351F35-5403-48B7-9C82-848B284FA291}|Expense\\Expense.csproj|c:\\users\\matheus\\documents\\projetos\\expense\\expense\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47351F35-5403-48B7-9C82-848B284FA291}|Expense\\Expense.csproj|solutionrelative:expense\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47351F35-5403-48B7-9C82-848B284FA291}|Expense\\Expense.csproj|c:\\users\\matheus\\documents\\projetos\\expense\\expense\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47351F35-5403-48B7-9C82-848B284FA291}|Expense\\Expense.csproj|solutionrelative:expense\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47351F35-5403-48B7-9C82-848B284FA291}|Expense\\Expense.csproj|c:\\users\\matheus\\documents\\projetos\\expense\\expense\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47351F35-5403-48B7-9C82-848B284FA291}|Expense\\Expense.csproj|solutionrelative:expense\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47351F35-5403-48B7-9C82-848B284FA291}|Expense\\Expense.csproj|c:\\users\\matheus\\documents\\projetos\\expense\\expense\\models\\spendsmartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47351F35-5403-48B7-9C82-848B284FA291}|Expense\\Expense.csproj|solutionrelative:expense\\models\\spendsmartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47351F35-5403-48B7-9C82-848B284FA291}|Expense\\Expense.csproj|c:\\users\\matheus\\documents\\projetos\\c#\\expense\\expense\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{47351F35-5403-48B7-9C82-848B284FA291}|Expense\\Expense.csproj|solutionrelative:expense\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{47351F35-5403-48B7-9C82-848B284FA291}|Expense\\Expense.csproj|c:\\users\\matheus\\documents\\projetos\\expense\\expense\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47351F35-5403-48B7-9C82-848B284FA291}|Expense\\Expense.csproj|solutionrelative:expense\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,48 +46,130 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\Expense\\Expense\\Program.cs",
+              "RelativeDocumentMoniker": "Expense\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\Expense\\Expense\\Program.cs",
+              "RelativeToolTip": "Expense\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T04:43:57.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\Expense\\Expense\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Expense\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\Expense\\Expense\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Expense\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T04:43:37.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\Expense\\Expense\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Expense\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\Expense\\Expense\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Expense\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T04:41:37.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\Expense\\Expense\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Expense\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\Expense\\Expense\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Expense\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T04:37:38.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Expensenses.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\Expense\\Expense\\Models\\Expensenses.cs",
+              "RelativeDocumentMoniker": "Expense\\Models\\Expensenses.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\Expense\\Expense\\Models\\Expensenses.cs",
+              "RelativeToolTip": "Expense\\Models\\Expensenses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T04:37:12.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\Expense\\Expense\\appsettings.json",
+              "RelativeDocumentMoniker": "Expense\\appsettings.json",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\Expense\\Expense\\appsettings.json",
+              "RelativeToolTip": "Expense\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T22:32:21.488Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Expenses.cshtml",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Expense\\Expense\\Views\\Home\\Expenses.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\Expense\\Expense\\Views\\Home\\Expenses.cshtml",
               "RelativeDocumentMoniker": "Expense\\Views\\Home\\Expenses.cshtml",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Expense\\Expense\\Views\\Home\\Expenses.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\Expense\\Expense\\Views\\Home\\Expenses.cshtml",
               "RelativeToolTip": "Expense\\Views\\Home\\Expenses.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-24T03:48:32.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "SpendSmartDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Expense\\Expense\\Models\\SpendSmartDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\Expense\\Expense\\Models\\SpendSmartDbContext.cs",
               "RelativeDocumentMoniker": "Expense\\Models\\SpendSmartDbContext.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Expense\\Expense\\Models\\SpendSmartDbContext.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\Expense\\Expense\\Models\\SpendSmartDbContext.cs",
               "RelativeToolTip": "Expense\\Models\\SpendSmartDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T03:47:51.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "CreateEditExpense.cshtml",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Expense\\Expense\\Views\\Home\\CreateEditExpense.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\Expense\\Expense\\Views\\Home\\CreateEditExpense.cshtml",
               "RelativeDocumentMoniker": "Expense\\Views\\Home\\CreateEditExpense.cshtml",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Expense\\Expense\\Views\\Home\\CreateEditExpense.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\Expense\\Expense\\Views\\Home\\CreateEditExpense.cshtml",
               "RelativeToolTip": "Expense\\Views\\Home\\CreateEditExpense.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-23T02:53:00.59Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

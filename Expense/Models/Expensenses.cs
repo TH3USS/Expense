@@ -1,8 +1,8 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace NomeDoProjeto.Models;
+namespace Expense.Models;
 
-public class Expense
+public class Expensenses
 {
     public int Id { get; set; }
 
